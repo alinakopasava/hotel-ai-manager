@@ -1,0 +1,17 @@
+scikit-learn~=1.6.1
+transformers~=4.48.1
+streamlit
+pandas~=2.2.3
+numpy~=1.24.3
+torch~=2.5.1
+accelerate>=0.26.0
+imblearn~=0.0
+joblib~=1.4.2
+imbalanced-learn~=0.13.0
+safetensors~=0.5.2
+sentencepiece
+python-dotenv~=1.0.1
+xgboost
+matplotlib
+seaborn
+google-generativeai
